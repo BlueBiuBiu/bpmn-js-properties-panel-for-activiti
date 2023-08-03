@@ -1,6 +1,6 @@
 {
   "name": "bpmn-js-properties-panel-for-activiti",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "transformation base on bpmn-js-properties-panel",
   "main": "index.js",
   "directories": {
