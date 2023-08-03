@@ -1,6 +1,6 @@
 {
   "name": "bpmn-js-properties-panel-for-activiti",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "transformation base on bpmn-js-properties-panel",
   "main": "index.js",
   "directories": {
@@ -17,6 +17,9 @@
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bpmn-js-properties-panel": "^0.33.2"
   },
   "author": "sky",
   "license": "ISC"
