@@ -1,10 +1,13 @@
 {
   "name": "bpmn-js-properties-panel-for-activiti",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "transformation base on bpmn-js-properties-panel",
   "main": "index.js",
   "directories": {
     "lib": "lib"
+  },
+  "repository": {
+    "url": "https://github.com/BlueBiuBiu/bpmn-js-properties-panel-for-activiti"
   },
   "keywords": [
     "bpmn-js",
